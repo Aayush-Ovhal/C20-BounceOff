@@ -1,2 +1,2 @@
-# C20-BounceOff
-to bounceOff two Random objects.
+# p5.play-boilerplate
+Boiler plate for p5.play
